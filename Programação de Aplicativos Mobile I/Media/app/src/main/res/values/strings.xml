@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Media</string>
+    <string name="txt1">Digite a Primeira Nota</string>
+    <string name="txt2">Digite a Segunda Nota</string>
+    <string name="txt3">Digite a Terceira Nota</string>
+    <string name="btnCalculsar">Calcular</string>
+</resources>
