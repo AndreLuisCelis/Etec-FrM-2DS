@@ -26,7 +26,7 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onClick(View view) {
                 if (n1.getText().toString().isEmpty()) {
-                    n1.setError("Preencha oo Valor 1");
+                    n1.setError("Preencha o Valor 1");
                     n1.requestFocus();
 
                 } else if (n2.getText().toString().isEmpty()) {
@@ -34,7 +34,7 @@ public class MainActivity extends AppCompatActivity {
                     n2.requestFocus();
 
                 } else if (n3.getText().toString().isEmpty()) {
-                    n3.setError("Preencha o valor 2");
+                    n3.setError("Preencha o valor 3 ");
                     n3.requestFocus();
 
                 } else {
