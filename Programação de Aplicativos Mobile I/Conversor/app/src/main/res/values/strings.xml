@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Conversor</string>
+    <string name="titulo">C(Celsius), K(Kelvin) e F(Farenheit)</string>
+    <string name="txtValor">Digite o Valor para Converter</string>
+    <string name="btnCK"> °C --> °K </string>
+    <string name="btnKC">  K --> °C </string>
+    <string name="btnCF"> °C --> °F </string>
+    <string name="btnFC"> °F --> °C </string>
+    <string name="btnKF">  K --> °F </string>
+    <string name="btnFK"> °F --> K </string>
+</resources>

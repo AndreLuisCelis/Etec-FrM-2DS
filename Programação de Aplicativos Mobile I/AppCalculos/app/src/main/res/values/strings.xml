@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">App Calculos</string>
+    <string name="txt1">Digite o Valor 1 : </string>
+    <string name="txt2">Digite o valor 2 : </string>
+    <string name="btn1">Somar</string>
+    <string name="btn2">Subtração</string>
+    <string name="btn3">Multiplicação</string>
+    <string name="btn4">Divisão</string>
+</resources>
